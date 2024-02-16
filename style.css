@@ -1,0 +1,55 @@
+body{
+    background:#f5dbda;
+}
+
+
+#header_div{
+    background-color: rgb(21, 140, 164);
+    width:100%;
+    left:0;
+}
+
+#header_div h2{
+    font-family: 'Protest Revolution', sans-serif;
+    color:white;
+}
+
+#header_div p{
+    font-family: 'Roboto', monospace;
+    color:skyblue;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    font-size:15px;
+}
+
+#main_div button{
+    margin-top:5px;
+    font-size: 20px;
+    width:30%;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+#main_div{
+    background-color: rgb(101, 168, 175);
+    height:94%;
+    width:100%;
+}
+
+.copy_right_footer{
+    position:fixed;
+    color:#6c757d;
+    bottom:0;
+    width:100%;
+    font-size: 18px;
+    background-color: #f5f5f5;
+    text-align:center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+    height:6%;
+    padding:8px;
+    font-family:cursive;
+}
+
+#audio,#number{
+    font-family: "Protest Riot", sans-serif;
+}
